@@ -178,3 +178,7 @@ still runs on the NumPy backend (`hedgelab.HAS_CPP` is False).
 - Heston paths hedged with Black-Scholes deltas: residual vega risk from model misspecification
 - Monte Carlo Greeks: bump-and-reprice vs pathwise vs likelihood ratio (variance and cost)
 - Ziggurat normal generator in C++ to close the single-thread RNG gap
+
+## License
+
+MIT, see [LICENSE](LICENSE).
